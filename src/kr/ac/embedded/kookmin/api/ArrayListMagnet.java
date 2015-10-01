@@ -1,4 +1,4 @@
-package kr.ac.kookmin.embedded.api;
+package kr.ac.embedded.kookmin.api;
 
 import java.util.*;
 

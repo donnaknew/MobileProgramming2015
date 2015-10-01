@@ -1,4 +1,4 @@
-package kr.ac.kookmin.embedded.overriding;
+package kr.ac.embedded.kookmin.overriding;
 
 public class Dragon extends Monster{
 	boolean frighten(int degree){

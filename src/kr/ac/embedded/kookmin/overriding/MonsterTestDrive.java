@@ -1,4 +1,4 @@
-package kr.ac.kookmin.embedded.overriding;
+package kr.ac.embedded.kookmin.overriding;
 
 public class MonsterTestDrive {
 	public static void main(String[] args) {

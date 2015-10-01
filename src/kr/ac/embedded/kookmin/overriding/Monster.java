@@ -1,4 +1,4 @@
-package kr.ac.kookmin.embedded.overriding;
+package kr.ac.embedded.kookmin.overriding;
 
 public class Monster {
 	boolean frighten(int d){
